@@ -61,12 +61,7 @@ Aplicação de registro de usuários capaz de criar, ler, atualizar e deletar us
 
 <h2>Back-end</h2>
 
-<details>
-  <summary><strong>🛸 Sobre</strong></summary><br />
-  
-  - O back-end da aplicação foi desenvolvido com `Node.js`, `TypeScript`, `Express` e `Prisma`. A aplicação pode ser acessada localmente (Se o container estiver em execução) no endereço `http://localhost:3001/`.
-
-</details>
+- O back-end da aplicação foi desenvolvido com `Node.js`, `TypeScript`, `Express` e `Prisma`. A aplicação pode ser acessada localmente (Se o container estiver em execução) no endereço `http://localhost:3001/`.
 
 <details>
   <summary><strong>📁 Organização</strong></summary><br />
@@ -438,14 +433,9 @@ Aplicação de registro de usuários capaz de criar, ler, atualizar e deletar us
 
 <h2>Front-end</h2>
 
-<details>
-  <summary><strong>🎨 Sobre</strong></summary><br />
-  
-  ![Captura de tela 2022-05-25 - 18 32 04](https://user-images.githubusercontent.com/47402835/170742085-4ae95fbe-fdad-4ba5-b75e-8627b0333e66.png)
+![Captura de tela 2022-05-25 - 18 32 04](https://user-images.githubusercontent.com/47402835/170742085-4ae95fbe-fdad-4ba5-b75e-8627b0333e66.png)
   
   - O front-end da aplicação foi desenvolvido com `Next.js`, `TypeScript`, `Sass` e `Axios`. A aplicação pode ser acessada localmente (Se o container estiver em execução) no endereço `http://localhost:3000/`.
-
-</details>
 
 <details>
   <summary><strong>📁 Organização</strong></summary><br />
